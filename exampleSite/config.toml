@@ -79,18 +79,18 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
+icon = "fa-square-facebook"
 url = "https://www.facebook.com/"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
+icon = "fa-linkedin"
 url = "https://www.linkedin.com/"
 weight = 2
 [[params.social]]
-icon = "fa-pinterest-square"
+icon = "fa-square-pinterest"
 url = "https://www.pinterest.com/"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
+icon = "fa-square-twitter"
 url = "https://twitter.com/"
 weight = 4
